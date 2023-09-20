@@ -4,8 +4,8 @@
 }
 
 @font-face {
-    font-family: 'Naue-Machina';
-    src: url('/assets/fonts/NeueMachina-regular.otf');
+    font-family: 'NaueMachina-regular';
+    src: url('../fonts/NeueMachina-regular.otf');
 }
 body {
     background-color: #000;
